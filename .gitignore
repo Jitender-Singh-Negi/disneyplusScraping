@@ -54,3 +54,5 @@ instance/
 .venv
 venv/
 ENV/
+
+.DS_Store
